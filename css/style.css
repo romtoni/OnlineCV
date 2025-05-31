@@ -1,0 +1,87 @@
+.cv-layer {
+    background-color: white;
+    border: solid;
+    border-color: black;
+}
+
+hr {
+    border: solid;
+    border-color: black;
+}
+
+.title-expertise {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.subtitle-expertise {
+    font-weight: bold;
+    font-style: italic;
+}
+
+
+.list-expertise {
+    background-color: darkblue;
+}
+
+.title-others {
+    font-weight: bold;
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.subtitle-others {
+    font-weight: bold;
+}
+
+.content-others {
+    font-style: italic;
+}
+
+.profile-picture {
+    height: 200px;
+    width: 200px;
+}
+
+.logo-image {
+    width: 180px;
+    height: 180px;
+}
+
+.software-image {
+    width: 75px;
+    height: 75px;
+}
+
+.social-image {
+    width: 45px;
+    height: 45px;
+}
+
+h2 {
+    font-weight: bold;
+    color: darkblue;
+}
+
+h4 {
+    color: darkblue;
+}
+
+h5 {
+    color: darkblue;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: white;
+}
+
+a:visited {
+    text-decoration: none;
+    color: white;
+}
